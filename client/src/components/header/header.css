@@ -1,0 +1,9 @@
+.header__container {
+    height: 10vh;
+}
+
+@media (min-width: 576px) {
+    .header__container {
+        height: 7vh;
+    }
+}

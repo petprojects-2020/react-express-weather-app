@@ -1,0 +1,18 @@
+.city__card {
+    border-radius: 2em;
+}
+
+.city__title {
+    font-weight: 700;
+    font-size: 1.5em;
+}
+
+.city__temperature {
+    font-weight: 700;
+    font-size: 1.25em;
+}
+
+.feels-like__temperature {
+    font-weight: 500;
+    font-size: 1.125em;
+}

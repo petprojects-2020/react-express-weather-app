@@ -1,0 +1,19 @@
+.city-detailed__card {
+    border-radius: 2em;
+}
+
+.city-detailed__title {
+    font-weight: 700;
+    font-size: 1.25em;
+}
+
+.city-detailed__date {
+    font-weight: 700;
+    font-size: 1.25em;
+    color: rgb(186,186,186);
+}
+
+.city-detailed__card-header {
+    font-weight: 500;
+    color: rgb(186,186,186);
+}

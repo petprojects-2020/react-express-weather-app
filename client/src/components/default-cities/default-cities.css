@@ -1,0 +1,10 @@
+.current__day {
+    font-weight: 700;
+    font-size: 1.25em;
+}
+
+.current__time {
+    font-weight: 700;
+    font-size: 1.25em;
+    color: rgb(186,186,186);
+}

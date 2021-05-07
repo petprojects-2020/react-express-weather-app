@@ -1,0 +1,13 @@
+.addingcity__container {
+    border-radius: 1em;
+}
+
+input[type=text] {
+    padding: 15px;
+    background-color: rgb(246,246,246);
+    color: black;
+}
+
+.city__examples {
+    font-size: 16px;
+}
